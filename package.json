@@ -1,0 +1,18 @@
+{
+  "name": "typescript-sandbox",
+  "version": "1.0.0",
+  "description": "a sandbox for testing typescript code",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/samchacko/angular-lesson-1.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "Sam Chacko",
+  "license": "ISC"
+}
